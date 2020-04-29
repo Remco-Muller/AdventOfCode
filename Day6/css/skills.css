@@ -1,0 +1,9 @@
+*{
+    color: white;
+}
+input, select, option{
+    color: black !important;
+}
+.historyData{
+    display: none;
+}
